@@ -4,4 +4,4 @@ Append current claims and handoffs at the bottom. Coordination updates go straig
 
 Claim format:
 
-`YYYY-MM-DDTHH:MMZ  operator  branch  claim: unit of work`
+`- <ISO 8601 UTC>  <who>  <what happened, and what it means for the other side>`
