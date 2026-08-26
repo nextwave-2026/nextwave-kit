@@ -26,6 +26,7 @@ The fixed targets are `install`, `lint`, `test`, `build`, `licences`, and `ci`. 
 
 ## Contents
 
+- `RUNBOOK.md` - shared operating context: schedule, judging, rules, coordination model. Read first.
 - `.github/workflows/ci.yml` - separate CI checks for each Makefile stage.
 - `DECISIONS.md` - append-only cross-host decision log.
 - `INTERFACES.md` - current interface-boundary state.
