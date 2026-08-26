@@ -42,10 +42,14 @@ Five lenses, in weight order:
 **Does not score:** feature count, code volume, framework name-dropping, a polished video without
 live function, visible rubric-chasing.
 
-Format per team: pitch → live demo → **trial by fire** → technical Q&A. **The pitch itself is
-7 minutes** — build and rehearse to that budget. The site lists the whole slot as 10 minutes per
-team, so the remaining time carries the demo, trial by fire and Q&A; confirm the exact split at
-check-in. Trial by fire means *judges operate our system live with unrehearsed input*. Build for that.
+Format per team: pitch → live demo → **trial by fire** → technical Q&A, in a **10-minute slot**.
+Working assumption, to be confirmed at check-in: **7 minutes for us, 3 minutes of Q&A.**
+
+Read that carefully when planning rehearsal. Those 7 minutes must carry the pitch *and* the live
+demo *and* the judges operating the system themselves — so the spoken pitch is far shorter than 7
+minutes. Budget it as roughly **3 minutes of talking, 4 minutes of the system being used**, and
+rehearse the handover into the demo until it is quick and boring. Trial by fire means *judges
+operate our system live with unrehearsed input*: no happy path, no driving it for them.
 
 **Required deliverables:** slides, live demo, public GitHub repo with README, architecture diagram,
 and a **decision log**. The decision log is written by humans — judges ask us, not the code.
