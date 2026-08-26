@@ -17,7 +17,7 @@ still carries the superseded Friday start.
 | Sat 29 Aug 10:00 | Challenges announced |
 | **Sat 29 Aug 10:30** | **T-ZERO — 24 hours on the clock** |
 | **Sun 30 Aug 10:30** | **Code freeze — submissions locked** |
-| Sun 30 Aug 11:00–13:00 | Pitches, 10 minutes per team |
+| Sun 30 Aug 11:00–13:00 | Pitches — **7-minute pitch** per team |
 | Sun 30 Aug 13:30 | City champions announced |
 | Sun 30 Aug 14:30 | Champions' final pitch, 15 min (10 pitch + 5 Q&A) |
 
@@ -42,8 +42,10 @@ Five lenses, in weight order:
 **Does not score:** feature count, code volume, framework name-dropping, a polished video without
 live function, visible rubric-chasing.
 
-Format per team: short pitch → live demo → **trial by fire** → technical Q&A, 10 minutes total.
-Trial by fire means *judges operate our system live with unrehearsed input*. Build for that.
+Format per team: pitch → live demo → **trial by fire** → technical Q&A. **The pitch itself is
+7 minutes** — build and rehearse to that budget. The site lists the whole slot as 10 minutes per
+team, so the remaining time carries the demo, trial by fire and Q&A; confirm the exact split at
+check-in. Trial by fire means *judges operate our system live with unrehearsed input*. Build for that.
 
 **Required deliverables:** slides, live demo, public GitHub repo with README, architecture diagram,
 and a **decision log**. The decision log is written by humans — judges ask us, not the code.
